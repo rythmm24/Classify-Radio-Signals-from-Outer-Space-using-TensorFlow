@@ -14,7 +14,7 @@ Check out the code section for the Jupyter Notebook `.ipynb` file
 
 ## Dataset
 Get the dataset from this drive link [Classify-Radio-Signals-from-Outer-Space-using-Tensorflow-Keras
-](https://drive.google.com/open?id=13L9jFnThO7lxBsToQkQZ9TUYazIK9mWR)
+](https://drive.google.com/drive/folders/1uA5ljHcxUYG8Q74DnHDzmaf-WXECBp-n)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
